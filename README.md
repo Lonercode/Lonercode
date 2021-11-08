@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lonercode
-- 👀 I’m interested in Python programming.
-- 🌱 I’m currently learning Python web development.
-- 💞️ I’m looking to collaborate on projects that involve the use of the Python programming language.
+- 👀 I’m interested in Python and JavaScript programming.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on projects that involve the use of the the Python and Javascript programming languages.
 - 📫 How to reach me...
 
 <!---
